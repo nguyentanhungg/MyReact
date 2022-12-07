@@ -8,6 +8,14 @@
 <body>
     <h1> Bài tập môn React</h1>
     <h1> Lý Thuyết </h1>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/ZERwaqr" target="_blank">Bài 1</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/gOKqXQa" target="_blank">Bài 2</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/jOKdaQw" target="_blank">Bài 3</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/xxzMPQm" target="_blank">Bài 4</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/mdKvqaJ" target="_blank">Bài 5</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/WNyPXLj" target="_blank">Bài 6</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/WNyPXPj" target="_blank">Bài 7</a></h2>
+    <h2><a href="https://codepen.io/nguyentanhungg/pen/eYKxebr" target="_blank">Bài 8</a></h2>
     <h2><a href="https://codepen.io/nguyentanhungg/pen/qBKRRLJ" target="_blank">Bài 9</a></h2>
     <h2><a href="https://codepen.io/nguyentanhungg/pen/GRGWJdy" target="_blank">Bài 10</a></h2>
     <h2><a href="https://codepen.io/nguyentanhungg/pen/yLEMNQm" target="_blank">Bài 11</a></h2>
