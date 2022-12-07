@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bài tập môn React</title>
 </head>
 <body>
     <h1> Bài tập môn React</h1>
@@ -29,11 +28,7 @@
     <h2><a href="https://codesandbox.io/s/th01-q0qf04" target="_blank">Bài thực hành số 1</a></h2>
     <h2><a href="https://codesandbox.io/s/th02-io339o" target="_blank">Bài thực hành số 2</a></h2>
     <h2><a href="https://codesandbox.io/s/th03-o0r7fg" target="_blank">Bài thực hành số 3</a></h2>
-    <style>
-        body{
-            text-align: center;
-        }
-    </style>
+    
     
 </body>
 </html>
