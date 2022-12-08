@@ -33,9 +33,10 @@
     <h1> Thực Hành </h1>
     <h2><a href="https://codesandbox.io/s/th00-obj027?file=/src/App.js" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
     <h2><a href="https://codesandbox.io/s/thuc-hanh-dung-props-va-sate-10r0i2?file=/src/Newcomp.js" target="_blank">Thực hành dùng props và sate</a></h2>
-    <h2><a href="https://codesandbox.io/s/th01-q0qf04" target="_blank">Bài thực hành số 1</a></h2>
-    <h2><a href="https://codesandbox.io/s/th02-io339o" target="_blank">Bài thực hành số 2</a></h2>
-    <h2><a href="https://codesandbox.io/s/th03-o0r7fg" target="_blank">Bài thực hành số 3</a></h2>
+    <h2><a href="https://codesandbox.io/s/th01-7nxemc" target="_blank">Bài thực hành số 1</a></h2>
+    <h2><a href="https://codesandbox.io/s/th02-9dmmbj" target="_blank">Bài thực hành số 2</a></h2>
+    <h2><a href="https://codesandbox.io/s/th03-cctbjp" target="_blank">Bài thực hành số 3</a></h2>
+    <h2><a href="https://codesandbox.io/s/th03-o0r7fg?file=/src/components/counter.jsx" target="_blank">Dự án hoàn chỉnh</a></h2>
     
     
 </body>
